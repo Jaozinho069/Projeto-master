@@ -1,0 +1,27 @@
+body {
+    font-family: 'Electro Box';
+    background-color: rgb(107, 116, 113);
+    color: white;
+    text-align: center;
+    font-size: larger;
+  }
+  
+  .container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+  }
+  
+  img {
+    display: block;
+    margin: auto;
+  }
+
+  img {
+    display: inline-block;
+    margin: 0 10px;
+  }
+  
